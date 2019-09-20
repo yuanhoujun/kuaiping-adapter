@@ -7,7 +7,7 @@
 Hexo主题适配
 ====
 ### Next
-链接地址：[https://github.com/theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
+主题地址：[https://github.com/theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
 
 ### 集成步骤
 1）先按照[Next](https://github.com/theme-next/hexo-theme-next)官方文档集成Next主题
