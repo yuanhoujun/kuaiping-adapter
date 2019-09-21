@@ -31,4 +31,29 @@ kuaiping:
 
 备注：appid需要到[快评官网](https://kuaiping.yhdm360.com)申请。
 
+---
+### Yilia
+主题地址：[https://github.com/litten/hexo-theme-yilia.git](https://github.com/litten/hexo-theme-yilia.git)
+
+### 集成步骤
+1）先按照[Yilia](https://github.com/litten/hexo-theme-yilia.git)官方文档集成Yilia主题
+
+2）clone该版本库到本地
+
+```
+git clone https://github.com/yuanhoujun/kuaiping-adapter.git
+```
+
+3）复制yilia文件夹到themes文件夹下，合并到yilia文件夹中
+
+4）在主题的配置文件`_config.yml`中增加如下配置
+
+```
+# Kuaiping
+kuaiping: true
+kuaiping_appid: xxxx
+```
+
+备注：appid需要到[快评官网](https://kuaiping.yhdm360.com)申请。
+
 
