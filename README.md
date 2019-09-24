@@ -56,4 +56,28 @@ kuaiping_appid: xxxx
 
 备注：appid需要到[快评官网](https://kuaiping.yhdm360.com)申请。
 
+### icarus
+主题地址：[https://github.com/ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)
+
+### 集成步骤
+1）先按照[icarus](https://github.com/ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)官方文档集成Yilia主题
+
+2）clone该版本库到本地
+
+```
+git clone https://github.com/yuanhoujun/kuaiping-adapter.git
+```
+
+3）复制icarus文件夹到themes文件夹下，合并到icarus文件夹中
+
+4）在主题的配置文件`_config.yml`中增加如下配置
+
+```
+comment:
+    type: kuaiping
+    appid: xxxx
+```
+
+
+。
 
