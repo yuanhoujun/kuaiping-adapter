@@ -60,7 +60,7 @@ kuaiping_appid: xxxx
 主题地址：[https://github.com/ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)
 
 ### 集成步骤
-1）先按照[icarus](https://github.com/ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)官方文档集成Yilia主题
+1）先按照 [icarus](https://github.com/ppoffice/hexo-theme-icarus) 官方文档集成Yilia主题
 
 2）clone该版本库到本地
 
@@ -77,7 +77,4 @@ comment:
     type: kuaiping
     appid: xxxx
 ```
-
-
-。
 
